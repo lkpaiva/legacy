@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1037913820196",
+    "project_id": "cadastro-fc9ba",
+    "storage_bucket": "cadastro-fc9ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037913820196:android:ff7ffb298409fb09941cb1",
+        "android_client_info": {
+          "package_name": "com.example.legacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037913820196-0td8on3ht8n43pf6ng344hvrvgvf7d48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpvLaEvWdlw28apwojoEIAe0NgB5R7AFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037913820196-0td8on3ht8n43pf6ng344hvrvgvf7d48.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1037913820196-l05dfdt94trsnu21loaevjkoj9hap926.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.legacy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
